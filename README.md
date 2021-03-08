@@ -1,12 +1,12 @@
 <h1 align="center">
-    Move it | NLW#4
+    <a href="https://moveit-faelteles.vercel.app/">MoveIt</a>
 </h1>
 <p align="center"> Application developed in the fourth edition of Rocketseat Next Level Week 💻🚀 </p>
 
 <p align="center">
- <a href="#objective">Objective</a> •
- <a href="#technologies">Technologies</a> • 
- <a href="#usage">Usage</a> • 
+ <a href="#objective">Objective</a> 
+ <a href="#technologies">Technologies</a> 
+ <a href="#usage">Usage</a> 
 </p>
 
 <h2 id="objective" > 🎯 Objective </h2>
